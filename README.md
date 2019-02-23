@@ -10,7 +10,7 @@ This is a  implementation of simplified and modular version of pytorch [CHATBOT 
 
 
 
-## Run
+## train model
 
 `python3 main.py`
 
@@ -18,7 +18,7 @@ You can configure encoder-decoder model in `main.py`
 
 
 
-## Evalute
+## Evaluate model
 
 Modify `model_path` variable in `evaluate.py` into your trained model path
 
